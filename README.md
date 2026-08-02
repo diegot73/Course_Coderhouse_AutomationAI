@@ -15,6 +15,6 @@ Sistema automatizado de triage, clasificación técnica, evaluación de fit come
 * **Human-in-the-Loop:** El flujo detiene su ejecución asignando el estado `Procesado por IA` en Airtable. Requiere la validación y aprobación manual de un operador humano (cambio de estado a `Aprobado para Envío`) antes de emitir la comunicación final al cliente.
 
 ## 4. Evidencias del Test de Estrés
-![Flujo en Make](evidencias/01_flujo_ejecutado_make.png)
-![Historial de Ejecuciones](evidencias/02_historial_ejecuciones.png)
-![Tabla de Airtable](evidencias/03_registros_airtable.png)
+![Flujo ejecutado en Make](evidencias/1_flujo_exitoso.png)
+![Historial de Ejecuciones](evidencias/2_historial_ejecuciones.png)
+![Tabla de Airtable](evidencias/3_registros_airtable.png)
