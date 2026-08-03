@@ -19,8 +19,11 @@ Sistema automatizado de triage, clasificación técnica, evaluación de fit come
 1. Flujo ejecutado en Make:
    ![Flujo ejecutado en Make](evidencias/1_flujo_exitoso.png)
 
-3. Historial de Ejecuciones:
+2. Historial de Ejecuciones:
    ![Historial de Ejecuciones](evidencias/2_historial_ejecuciones.png)
 
-5. Tabla Leads en Airtable:
+3. Tabla Leads en Airtable:
    ![Tabla de Airtable](evidencias/3_registros_airtable.png)
+
+4. Email enviado al operador para la aprobación manual:
+   ![Email enviado](evidencias/4_email_control_aprobacion.png)
