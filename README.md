@@ -7,6 +7,7 @@ Sistema automatizado de triage, clasificación técnica, evaluación de fit come
 * **Base de Datos Airtable (Modo Lectura):** https://airtable.com/appH0efkP9ky99sBs/shrM6QfeCC41gpbp5
 * **Diagrama de Arquitectura:** Ver archivo `Diagrama_Arquitectura.pdf` adjunto en este repositorio.
 * **Blueprint del proyecto en Make:** Ver archivo `flujo_principal.blueprint` adjunto en este repositorio.
+* **Ejemplo de http request trigger para webhook:** Ver archivo `http_request.txt` adjunto en este repositorio.
 
 ## 3. Arquitectura y Resiliencia del Flujo
 * **Cerebro (Base de Datos):** Airtable relacional con control de estados (`Pendiente`, `Procesado por IA`, `Aprobado para Envío`, `Error en Proceso`).
