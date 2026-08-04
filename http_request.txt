@@ -1,0 +1,10 @@
+Create an HTTP Request.
+Method: POST
+URL: https://hook.us2.make.com/dy7n5qw9i42aqc9ydgssm77mi8i6tstm
+Body (Raw -> JSON): {
+  "nombre": "Juan Perez",
+  "email": "jperez@gmail.com",
+  "mensaje": "Hola, somos una empresa de startup y queremos automatizar nuestro servicio de atención al cliente de WhatsApp integrando ChatGPT con nuestra base de datos de envíos. Tenemos un presupuesto de unos 10000 USD.",
+  "empresa": "SpamBot Inc",
+  "thread_id": "thread_432ab234cd5678ef"
+}
